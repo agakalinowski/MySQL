@@ -16,7 +16,7 @@
     FROM sql_product p
     JOIN sql_product_description pd ON p.product_id = pd.product_id
 
-**[Results][2]**:
+**Results**:
 
     | product_id |   model |  price | min_quantity | print_option1 | print_option2 | dimensions |  packing | weight |        material |      name |                                           description |
     |------------|---------|--------|--------------|---------------|---------------|------------|----------|--------|-----------------|-----------|-------------------------------------------------------|
