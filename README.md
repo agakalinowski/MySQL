@@ -23,18 +23,18 @@ The project relies on a MySQL database with the following tables:
 - `weight` (DECIMAL): Product weight.
 - `material` (VARCHAR): Material of the product.
 
-### `sql_product_description`
+### [`sql_product_description`](https://github.com/agakalinowski/MySQL/blob/main/sql_product_description.sql)
 
 - `product_id` (INT): Corresponding product identifier.
 - `name` (VARCHAR): Name of the product.
 - `description` (TEXT): Detailed product description.
 
-### `sql_product_to_category`
+### [`sql_product_to_category`](https://github.com/agakalinowski/MySQL/blob/main/sql_product_to_category.sql)
 
 - `product_id` (INT): Product identifier.
 - `category` (VARCHAR): Category to which the product belongs.
 
-### `sql_category_filter`
+### [`sql_category_filter`](https://github.com/agakalinowski/MySQL/blob/main/sql_category_filter.sql)
 
 - `product_id` (INT): Product identifier.
 - `category` (VARCHAR): Category associated with the product.
