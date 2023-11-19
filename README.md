@@ -8,7 +8,9 @@ Welcome to the [Data base commercial] repository! This project is a commercial a
 
 The project relies on a MySQL database with the following tables:
 
-### `sql_product`
+
+### `sql_product`[Link to sql_product.sql](https://github.com/agakalinowski/MySQL/blob/main/sql_product.sql)
+
 
 - `product_id` (INT): Unique identifier for each product.
 - `model` (VARCHAR): Model name of the product.
