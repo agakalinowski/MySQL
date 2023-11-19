@@ -118,4 +118,5 @@
     |          9 |  Model9 | 119.99 |           18 |         Color |        Purple |    13x17x7 |    Boxed |    2.3 |          Rubber |  Product9 |          Product9 is perfect for your everyday needs. |
     |         10 | Model10 |  99.99 |           10 |    Monochrome |        Yellow |    16x20x9 | Packaged |      2 |         Plastic | Product10 |                Discover the versatility of Product10. |
 
-    [2]: http://sqlfiddle.com/#!9/d0d3b7/12/0
+  [1]: http://sqlfiddle.com/#!9/d0d3b7/9
+  [2]: http://sqlfiddle.com/#!9/d0d3b7/9/0
