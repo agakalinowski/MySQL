@@ -49,13 +49,13 @@ In the [directory, you will find example SQL queries that demonstrate how to ret
 1. **Product Details with Description:** [sql](https://github.com/agakalinowski/MySQL/blob/main/Query%201.sql) or [no extention](https://github.com/agakalinowski/MySQL/blob/main/Query%201:%20List%20of%20Products%20with%20Full%20Details.md)
    - Retrieve product details along with their descriptions.
 
-2. **Products in a Specific Category:**[sql](https://github.com/agakalinowski/MySQL/blob/main/Query%202.sql) or [no extention](https://github.com/agakalinowski/MySQL/blob/main/Query%202%3A%20Products%20with%20Specific%20Print%20Options%20and%20Categories.md)
+2. **Products in a Specific Category:** [sql](https://github.com/agakalinowski/MySQL/blob/main/Query%202.sql) or [no extention](https://github.com/agakalinowski/MySQL/blob/main/Query%202%3A%20Products%20with%20Specific%20Print%20Options%20and%20Categories.md)
    - Retrieve products that belong to a specific category.
 
-3. **Products with Category Filters:**[sql](https://github.com/agakalinowski/MySQL/blob/main/Query%203.sql) or [no extention](https://github.com/agakalinowski/MySQL/blob/main/Query%203.%20Get%20Products%20in%20a%20Specific%20Category.md)
+3. **Products with Category Filters:** [sql](https://github.com/agakalinowski/MySQL/blob/main/Query%203.sql) or [no extention](https://github.com/agakalinowski/MySQL/blob/main/Query%203.%20Get%20Products%20in%20a%20Specific%20Category.md)
    - Retrieve products along with their associated category filters.
   
-4. **Average Price and Weight by Category:**[sql](https://github.com/agakalinowski/MySQL/blob/main/Query%204.sql) or [no extention](https://github.com/agakalinowski/MySQL/blob/main/Query%204%3A%20Average%20Price%20and%20Weight%20by%20Category.md)
+4. **Average Price and Weight by Category:** [sql](https://github.com/agakalinowski/MySQL/blob/main/Query%204.sql) or [no extention](https://github.com/agakalinowski/MySQL/blob/main/Query%204%3A%20Average%20Price%20and%20Weight%20by%20Category.md)
    - Retrieve the average price and weight of products grouped by category.
 
 ## Intentional Changes
