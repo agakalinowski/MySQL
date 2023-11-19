@@ -1,4 +1,21 @@
 
+# Database Structure
+
+The project relies on a MySQL database with the following tables:
+
+## `sql_product`
+
+- `product_id` (INT): Unique identifier for each product.
+- `product_code` (VARCHAR): Code of the product (7 numbers).
+- `name` (VARCHAR): Name of the product.
+
+## `sql_product_categories`
+
+- `product_id` (INT): Product identifier.
+- `category_id` (INT): Primary key for category.
+- `category_name` (VARCHAR): Category associated with the product.
+
+
 ### Query Examples
 
 1. **Retrieve All Products and Categories:** [sql](https://github.com/agakalinowski/MySQL/blob/main/NEW!/Query_1.sql) or [quickly result](http://sqlfiddle.com/#!9/574705/4)
@@ -8,7 +25,6 @@
 3. **Count the Number of Products in Each Category:** [sql](https://github.com/agakalinowski/MySQL/blob/main/NEW!/Query_3.sql) or [quickly result](http://sqlfiddle.com/#!9/574705/6)
    
   
-
 ## Intentional Changes
 
 For the purpose of this README, the actual data used in the project has been replaced with generic placeholders to maintain confidentiality. Any specific references to products, categories, or filters are intentional modifications for demonstration purposes only.
