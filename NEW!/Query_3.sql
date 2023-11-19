@@ -11,4 +11,4 @@
     |   Electronics |             2 |
     |    Home Goods |             1 |
     |    Stationery |             2 |
-[4]: http://sqlfiddle.com/#!9/574705/3/2
+
