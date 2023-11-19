@@ -87,7 +87,7 @@
     (9, 'Fashion', 3009),
     (10, 'Electronics', 1010);
 
-**Query 1**: Click [here](https://github.com/agakalinowski/MySQL/blob/main/Query%201.sql)for additional version
+**Query 1**: Click [here](https://github.com/agakalinowski/MySQL/blob/main/Query%201.sql) for additional version
 
     SELECT 
     p.product_id, 
@@ -120,7 +120,7 @@
     |          9 |  Model9 | 119.99 |           18 |         Color |        Purple |    13x17x7 |    Boxed |    2.3 |          Rubber |  Product9 |          Product9 is perfect for your everyday needs. |
     |         10 | Model10 |  99.99 |           10 |    Monochrome |        Yellow |    16x20x9 | Packaged |      2 |         Plastic | Product10 |                Discover the versatility of Product10. |
 
-**Query 2**:Click [here](https://github.com/agakalinowski/MySQL/blob/main/Query%202.sql)for additional version
+**Query 2**:Click [here](https://github.com/agakalinowski/MySQL/blob/main/Query%202.sql) for additional version
 
     SELECT p.product_id, p.model, p.price, p.min_quantity, p.print_option1, p.print_option2,
            p.dimensions, p.packing, p.weight, p.material, pc.category, cf.filter
@@ -143,7 +143,7 @@
     |          9 |  Model9 | 119.99 |           18 |         Color |        Purple |    13x17x7 |    Boxed |    2.3 |          Rubber |         Fashion |   3009 |
     |         10 | Model10 |  99.99 |           10 |    Monochrome |        Yellow |    16x20x9 | Packaged |      2 |         Plastic |     Electronics |   1010 |
 
-**Query 3**:Click [here](https://github.com/agakalinowski/MySQL/blob/main/Query%203.sql)for additional version
+**Query 3**:Click [here](https://github.com/agakalinowski/MySQL/blob/main/Query%203.sql) for additional version
 
     SELECT p.product_id, p.model, p.price, p.min_quantity, p.print_option1, p.print_option2,
            p.dimensions, p.packing, p.weight, p.material, pc.category
@@ -159,7 +159,7 @@
     |          5 | Model5 | 129.99 |           12 |         Color |         Green |    14x16x7 | Wrapped |    1.8 |  Ceramic | Home and Garden |
     |          8 | Model8 |  59.99 |            8 |    Monochrome |         Brown |     9x13x5 | Wrapped |      1 |  Leather | Home and Garden |
 
-**Query 4**:Click [here](https://github.com/agakalinowski/MySQL/blob/main/Query%204.sql)for additional version
+**Query 4**:Click [here](https://github.com/agakalinowski/MySQL/blob/main/Query%204.sql) for additional version
     SELECT 
         pc.category, 
         AVG(p.price) AS avg_price, 
