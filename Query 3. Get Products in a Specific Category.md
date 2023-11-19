@@ -84,7 +84,7 @@
     (8, 'Home and Garden', 2008),
     (9, 'Fashion', 3009),
     (10, 'Electronics', 1010);
-**Query 1**:
+**Query 3**:
 
     SELECT p.product_id, p.model, p.price, p.min_quantity, p.print_option1, p.print_option2,
                p.dimensions, p.packing, p.weight, p.material, pc.category
