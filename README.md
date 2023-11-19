@@ -61,3 +61,14 @@ In the [directory, you will find example SQL queries that demonstrate how to ret
 ## Intentional Changes
 
 For the purpose of this README, the actual data used in the project has been replaced with generic placeholders to maintain confidentiality. Any specific references to products, categories, or filters are intentional modifications for demonstration purposes only.
+
+## Important Information
+
+This repository contains confidential information and/or files intended solely for viewing. Please adhere to the following guidelines:
+
+- **Confidentiality:** The information within this repository is confidential, and copying or using it for commercial purposes is not allowed without prior consent.
+- **Restrictions:** Copying, reproducing, or using the content of this repository for purposes other than viewing is strictly prohibited.
+
+Please read the full documentation before using this data.
+
+Thank you for your understanding and compliance with the guidelines.
