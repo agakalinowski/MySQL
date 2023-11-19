@@ -46,16 +46,16 @@ In the [directory, you will find example SQL queries that demonstrate how to ret
 
 ### Query Examples
 
-1. **Product Details with Description:** [sql](https://github.com/agakalinowski/MySQL/blob/main/Query%201.sql) or [no extention](https://github.com/agakalinowski/MySQL/blob/main/Query%201:%20List%20of%20Products%20with%20Full%20Details.md) or [quickly_result](http://sqlfiddle.com/#!9/d0d3b7/9/0)
+1. **Product Details with Description:** [sql](https://github.com/agakalinowski/MySQL/blob/main/Query%201.sql) and [no extention](https://github.com/agakalinowski/MySQL/blob/main/Query%201:%20List%20of%20Products%20with%20Full%20Details.md) or [quickly_result](http://sqlfiddle.com/#!9/d0d3b7/9/0)
    - Retrieve product details along with their descriptions.
 
-2. **Products in a Specific Category:** [sql](https://github.com/agakalinowski/MySQL/blob/main/Query%202.sql) or [no extention](https://github.com/agakalinowski/MySQL/blob/main/Query%202%3A%20Products%20with%20Specific%20Print%20Options%20and%20Categories.md) or [quickly_result](http://sqlfiddle.com/#!9/d0d3b7/13/0)
+2. **Products in a Specific Category:** [sql](https://github.com/agakalinowski/MySQL/blob/main/Query%202.sql) and [no extention](https://github.com/agakalinowski/MySQL/blob/main/Query%202%3A%20Products%20with%20Specific%20Print%20Options%20and%20Categories.md) or [quickly_result](http://sqlfiddle.com/#!9/d0d3b7/13/0)
    - Retrieve products that belong to a specific category.
 
-3. **Products with Category Filters:** [sql](https://github.com/agakalinowski/MySQL/blob/main/Query%203.sql) or [no extention](https://github.com/agakalinowski/MySQL/blob/main/Query%203.%20Get%20Products%20in%20a%20Specific%20Category.md) or [quickly_result](http://sqlfiddle.com/#!9/d0d3b7/14/0)
+3. **Products with Category Filters:** [sql](https://github.com/agakalinowski/MySQL/blob/main/Query%203.sql) and [no extention](https://github.com/agakalinowski/MySQL/blob/main/Query%203.%20Get%20Products%20in%20a%20Specific%20Category.md) or [quickly_result](http://sqlfiddle.com/#!9/d0d3b7/14/0)
    - Retrieve products along with their associated category filters.
   
-4. **Average Price and Weight by Category:** [sql](https://github.com/agakalinowski/MySQL/blob/main/Query%204.sql) or [no extention](https://github.com/agakalinowski/MySQL/blob/main/Query%204%3A%20Average%20Price%20and%20Weight%20by%20Category.md) or [quickly_result](http://sqlfiddle.com/#!9/d0d3b7/15/0)
+4. **Average Price and Weight by Category:** [sql](https://github.com/agakalinowski/MySQL/blob/main/Query%204.sql) and [no extention](https://github.com/agakalinowski/MySQL/blob/main/Query%204%3A%20Average%20Price%20and%20Weight%20by%20Category.md) or [quickly_result](http://sqlfiddle.com/#!9/d0d3b7/15/0)
    - Retrieve the average price and weight of products grouped by category.
 
 ## Intentional Changes
