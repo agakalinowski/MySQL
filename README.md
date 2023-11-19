@@ -45,7 +45,7 @@ In the [directory, you will find example SQL queries that demonstrate how to ret
 
 ### Query Examples
 
-1. **[Product Details with Description](https://github.com/agakalinowski/MySQL/blob/main/Query%201.sql):**
+1. **Product Details with Description:** [sql](https://github.com/agakalinowski/MySQL/blob/main/Query%201.sql) or [no extention](https://github.com/agakalinowski/MySQL/blob/main/Query%201:%20List%20of%20Products%20with%20Full%20Details.md)
    - Retrieve product details along with their descriptions.
 
 2. **Products in a Specific Category:**
