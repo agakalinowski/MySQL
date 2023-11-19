@@ -2,11 +2,11 @@
 
 ## Overview
 
-Welcome to the [Data base commercial] repository! This project is a commercial application designed for 123gifts.pl.
+Welcome to the [Data base commercial] repository! This project is a commercial application designed for one of biggest advertising agency in Poland.
 
 **Project Status: Ongoing Development**
 
-This project is continuously evolving, and new features will be incrementally added over time. It's a dynamic initiative aimed at meeting the evolving needs of 123gifts.pl.
+This project is continuously evolving, and new features will be incrementally added over time. It's a dynamic initiative aimed at meeting the evolving needs of advertising market in Poland.
 
 ## Database Structure
 
