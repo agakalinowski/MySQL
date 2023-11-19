@@ -1,4 +1,4 @@
-**Query 2**:
+**Query 2**:Products with Specific Print Options and Categories
 
      SELECT p.product_id, p.model, p.price, p.min_quantity, p.print_option1, p.print_option2,
                p.dimensions, p.packing, p.weight, p.material, pc.category, cf.filter
@@ -7,7 +7,7 @@
         LEFT JOIN sql_category_filter cf ON p.product_id = cf.product_id
     
 
-**[Results][2]**:
+**Results**:
 
     | product_id |   model |  price | min_quantity | print_option1 | print_option2 | dimensions |  packing | weight |        material |        category | filter |
     |------------|---------|--------|--------------|---------------|---------------|------------|----------|--------|-----------------|-----------------|--------|
@@ -22,5 +22,4 @@
     |          9 |  Model9 | 119.99 |           18 |         Color |        Purple |    13x17x7 |    Boxed |    2.3 |          Rubber |         Fashion |   3009 |
     |         10 | Model10 |  99.99 |           10 |    Monochrome |        Yellow |    16x20x9 | Packaged |      2 |         Plastic |     Electronics |   1010 |
 
-  [1]: http://sqlfiddle.com/#!9/d0d3b7/13
-  [2]: http://sqlfiddle.com/#!9/d0d3b7/13/0
+  
